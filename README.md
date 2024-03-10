@@ -1,4 +1,3 @@
-"Ini adalah Branch 2"
-"Ini adalah Branch 1"
-"Ini adalah Branch 2"
-"Ini adalah Branch 2"
+Selain itu, Git juga dikenal dengan desentralisasi dan distribusinya yang efisien. Setiap anggota tim dapat memiliki salinan penuh dari repositori, memungkinkan mereka untuk bekerja secara mandiri tanpa ketergantungan pada server pusat. Hal ini memberikan keleluasaan dalam pengembangan lokal, memungkinkan eksperimen tanpa mengganggu versi utama. 
+
+Git telah menjadi standar de facto di dunia pengembangan perangkat lunak, digunakan oleh banyak proyek open source dan perusahaan terkemuka. Kesederhanaan, kecepatan, dan kemampuan untuk menangani proyek-proyek besar menjadikan Git alat yang tak tergantikan dalam manajemen versi.
